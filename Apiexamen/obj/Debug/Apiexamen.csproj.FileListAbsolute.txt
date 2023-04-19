@@ -1,0 +1,6 @@
+C:\Users\carme\source\repos\WindowsFormsApp1\Apiexamen\bin\Debug\Apiexamen.dll
+C:\Users\carme\source\repos\WindowsFormsApp1\Apiexamen\bin\Debug\Apiexamen.pdb
+C:\Users\carme\source\repos\WindowsFormsApp1\Apiexamen\obj\Debug\Apiexamen.csproj.AssemblyReference.cache
+C:\Users\carme\source\repos\WindowsFormsApp1\Apiexamen\obj\Debug\Apiexamen.csproj.CoreCompileInputs.cache
+C:\Users\carme\source\repos\WindowsFormsApp1\Apiexamen\obj\Debug\Apiexamen.dll
+C:\Users\carme\source\repos\WindowsFormsApp1\Apiexamen\obj\Debug\Apiexamen.pdb
